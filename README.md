@@ -49,13 +49,13 @@ _이텔릭_
 
 # 링크(Links)
 
-<a href="https://google.com">GOOGLE</a> 
+<!-- <a href="https://google.com">GOOGLE</a>  -->
 [GOOGLE](https://google.com) <br/>
 
-<a href="https://naver.com" title="NAVER로 이동!">NAVER</a>
+<!-- <a href="https://naver.com" title="NAVER로 이동!">NAVER</a> -->
 [NAVER](https://naver.com "NAVER로 이동!")<br/>
 
-<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
+<!-- <a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a> -->
 
 # 이미지(Images)
 
