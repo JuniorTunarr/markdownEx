@@ -27,7 +27,7 @@
 
 _이텔릭_  
 **두껍게**  
-**_이텔릭 + 두껍게_**
+**_이텔릭 + 두껍게_** <br/>
 ~~취소선~~  
 <u>밑줄</u>
 
@@ -49,11 +49,11 @@ _이텔릭_
 
 # 링크(Links)
 
-<a href="https://google.com">GOOGLE</a>
-[GOOGLE](https://google.com)
+<a href="https://google.com">GOOGLE</a> 
+[GOOGLE](https://google.com) <br/>
 
 <a href="https://naver.com" title="NAVER로 이동!">NAVER</a>
-[NAVER](https://naver.com "NAVER로 이동!")
+[NAVER](https://naver.com "NAVER로 이동!")<br/>
 
 <a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
 
